@@ -1,0 +1,15 @@
+{
+  "name": "ecommerce-smiley",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^0.5.1",
+    "nuxt": "^3.10.2",
+    "pinia": "^2.1.7"
+  }
+}
